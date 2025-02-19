@@ -4,5 +4,6 @@ public class Main {
         System.out.println("This is a new line.");
         System.out.println("This is another new line.");
         System.out.println("I AM HACKING THIS PROJECT HAHAHA!");
+        System.out.println("ALL YOUR COMPUTER BELONG TO ME");
     }
 }
